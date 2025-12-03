@@ -1,0 +1,174 @@
+{
+  "hplc": [
+    {
+      "id": "LC267,LC281,LC282,LC283,LC308,LC309,LC648,LC649",
+      "model": "InertSustain C18",
+      "specification": "150mmx4.6mmx5um",
+      "description": "反相C18色谱柱，适用于大多数化合物的分离"
+    },
+    {
+      "id": "LC574",
+      "model": "InertSustain C18",
+      "specification": "150mmx4.6mmx3um",
+      "description": "反相C18色谱柱，3um粒径提供更高分离效率"
+    },
+    {
+      "id": "LC268",
+      "model": "Dael-chiral-pak-IG",
+      "specification": "250mmx4.6mmx5um",
+      "description": "手性分离色谱柱"
+    },
+    {
+      "id": "LC274,LC307,LC448,LC642",
+      "model": "CHIRALCEL OJ-RH",
+      "specification": "150mmx4.6mmx5um",
+      "description": "手性分离色谱柱，适用于对映体分离"
+    },
+    {
+      "id": "LC442,LC612,LC635,LC539",
+      "model": "ZORBAX Eclipse plus C18",
+      "specification": "100mmx4.6mmx3.5um",
+      "description": "安捷伦C18色谱柱，高柱效"
+    },
+    {
+      "id": "LC299,LC361",
+      "model": "CHIRALCEL OX-H",
+      "specification": "4.6x250mmx5um",
+      "description": "手性分离色谱柱"
+    },
+    {
+      "id": "LC323,LC324,LC390,LC403",
+      "model": "XBridge®shield RP18",
+      "specification": "150mmx4.6mmx3.5um",
+      "description": "Waters屏蔽C18色谱柱，适合碱性化合物分离"
+    },
+    {
+      "id": "LC326,LC327",
+      "model": "ACE UltraCore SuperC18",
+      "specification": "150x4.6mmx2.5um",
+      "description": "超核技术C18柱，2.5um小粒径"
+    },
+    {
+      "id": "LC329,LC330,LC437",
+      "model": "Atlantis T3",
+      "specification": "150mmx4.6x3um",
+      "description": "Waters T3色谱柱，适合极性化合物保留"
+    },
+    {
+      "id": "LC331,LC333",
+      "model": "Thermo Hypersil GOLD",
+      "specification": "250x4.6mmx5um",
+      "description": "赛默飞C18色谱柱"
+    },
+    {
+      "id": "LC344,LC350,LC351,LC397",
+      "model": "捕集小柱Ghost-Buster",
+      "specification": "4.6*50mm",
+      "description": "捕集柱，用于样品前处理"
+    },
+    {
+      "id": "LC362,LC363",
+      "model": "Infinitylab poroshell 120 phenyl Hexyl",
+      "specification": "3.0*150mm*2.7",
+      "description": "安捷伦核壳技术苯基己基柱"
+    },
+    {
+      "id": "LC365,LC373,LC384",
+      "model": "Gemini®C18",
+      "specification": "250*4.6mm*5um",
+      "description": "菲罗门Gemini C18色谱柱"
+    },
+    {
+      "id": "LC368,LC446",
+      "model": "AD-H",
+      "specification": "250mmx4.6mmx5um",
+      "description": "手性分离色谱柱"
+    },
+    {
+      "id": "LC377,LC378",
+      "model": "ZORBAX Eclipse XDB-C18",
+      "specification": "4.6*150mm*5um",
+      "description": "安捷伦XDB-C18色谱柱"
+    },
+    {
+      "id": "LC382,LC401",
+      "model": "Excel C18-HL",
+      "specification": "250*4.6*5um",
+      "description": "C18色谱柱"
+    },
+    {
+      "id": "LC294",
+      "model": "Syncronis C18",
+      "specification": "250mmx4.6mmx5um",
+      "description": "赛默飞Syncronis C18色谱柱"
+    },
+    {
+      "id": "LC383,LC291",
+      "model": "InfinityLab Poroshell 120EC-C18",
+      "specification": "100*4.6mm*2.7um",
+      "description": "安捷伦核壳技术C18柱"
+    },
+    {
+      "id": "LC478,LC659",
+      "model": "依利特Supersil SCX",
+      "specification": "4*250 mm, 5 µm",
+      "description": "强阳离子交换色谱柱"
+    }
+  ],
+  "gc": [
+    {
+      "id": "GC066,GC124,GC134",
+      "model": "DB-624",
+      "specification": "30mx0.53mmx3.0um",
+      "description": "安捷伦624色谱柱，适用于挥发性有机物分析"
+    },
+    {
+      "id": "GC075",
+      "model": "DB-624",
+      "specification": "30mx0.320mmx1.80um",
+      "description": "安捷伦624色谱柱，0.32mm内径"
+    },
+    {
+      "id": "GC073,GC074",
+      "model": "DB-35",
+      "specification": "30mx0.32mmx0.5um",
+      "description": "安捷伦35色谱柱，中等极性"
+    },
+    {
+      "id": "GC087,GC091",
+      "model": "DB-1701",
+      "specification": "30*0.250*1.00um",
+      "description": "安捷伦1701色谱柱，中等极性，适合农药分析"
+    },
+    {
+      "id": "GC088,GC092",
+      "model": "DB-WAXETR",
+      "specification": "30*0.320*1.00um",
+      "description": "安捷伦WAXETR色谱柱，极性柱"
+    },
+    {
+      "id": "GC090",
+      "model": "RIX-1301",
+      "specification": "30*0.32*1.8um",
+      "description": "Restek 1301色谱柱"
+    },
+    {
+      "id": "GC112",
+      "model": "InertCap5",
+      "specification": "0.53*30*5.00um",
+      "description": "岛津InertCap5色谱柱，0.53mm大口径"
+    },
+    {
+      "id": "GC120",
+      "model": "DB-624",
+      "specification": "60mx0.320mmx1.80um",
+      "description": "安捷伦624色谱柱，60米长柱"
+    },
+    {
+      "id": "GC122",
+      "model": "ZB-624",
+      "specification": "30m*0.25mm*1.4um",
+      "description": "Phenomenex ZB-624色谱柱"
+    }
+  ]
+}
